@@ -1,0 +1,21 @@
+{
+  "name": "tarefa1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "json-socket": "^0.3.0",
+    "mqtt": "^4.2.6",
+    "net": "^1.0.2",
+    "require": "^2.4.20",
+    "socket.io": "^3.0.3",
+    "uuid": "^8.3.1"
+  }
+}
